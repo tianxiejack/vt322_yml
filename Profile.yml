@@ -1,7 +1,7 @@
 %YAML:1.0
 cfg_avt_0: 0.
-cfg_avt_1: 1.0000000149011612e-01
-cfg_avt_2: 6.9999998807907104e-01
+cfg_avt_1: 0.
+cfg_avt_2: 6.0000002384185791e-01
 cfg_avt_3: 3.0000001192092896e-01
 cfg_avt_4: 4.0000000596046448e-01
 cfg_avt_5: 0.
@@ -16,14 +16,14 @@ cfg_avt_13: 0.
 cfg_avt_14: 0.
 cfg_avt_15: 0.
 cfg_avt_16: 0.
-cfg_avt_17: 16.
-cfg_avt_18: 0.38
-cfg_avt_19: 30
-cfg_avt_20: 0.
-cfg_avt_21: 20.
-cfg_avt_22: 0.5
+cfg_avt_17: 5.
+cfg_avt_18: 2.8000000119209290e-01
+cfg_avt_19: 40.
+cfg_avt_20: 5.0000000000000000e-01
+cfg_avt_21: 15.
+cfg_avt_22: 3.4999999403953552e-01
 cfg_avt_23: 30.
-cfg_avt_24: 0.
+cfg_avt_24: 5.0000000000000000e-01
 cfg_avt_25: 0.
 cfg_avt_26: 0.
 cfg_avt_27: 0.
@@ -32,8 +32,8 @@ cfg_avt_29: 0.
 cfg_avt_30: 0.
 cfg_avt_31: 0.
 cfg_avt_32: 0.
-cfg_avt_33: 110.
-cfg_avt_34: 70.
+cfg_avt_33: 2000.
+cfg_avt_34: 2000.
 cfg_avt_35: 8000.
 cfg_avt_36: 8000.
 cfg_avt_37: 30.
@@ -49,7 +49,7 @@ cfg_avt_46: 0.
 cfg_avt_47: 0.
 cfg_avt_48: 3.4999999403953552e-01
 cfg_avt_49: 3.7999999523162842e-01
-cfg_avt_50: 1.2500000186264515e-02
+cfg_avt_50: 2.9999999329447746e-02
 cfg_avt_51: 80.
 cfg_avt_52: 12000.
 cfg_avt_53: 10.
