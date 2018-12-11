@@ -98,7 +98,7 @@ cfg_avt_95: 2.4999999441206455e-03
 cfg_avt_96: 0.
 cfg_avt_97: 10.
 cfg_avt_98: 10.
-cfg_avt_99: 0.
+cfg_avt_99: ""
 cfg_avt_100: 0.
 cfg_avt_101: 2.
 cfg_avt_102: 10.
@@ -114,7 +114,7 @@ cfg_avt_111: 0.
 cfg_avt_112: 0.
 cfg_avt_113: 0.
 cfg_avt_114: 0.
-cfg_avt_115: 0.
+cfg_avt_115: ""
 cfg_avt_116: 0.
 cfg_avt_117: 0.
 cfg_avt_118: 0.
@@ -130,7 +130,7 @@ cfg_avt_127: 0.
 cfg_avt_128: 0.
 cfg_avt_129: 0.
 cfg_avt_130: 0.
-cfg_avt_131: 0.
+cfg_avt_131: ""
 cfg_avt_132: 0.
 cfg_avt_133: 0.
 cfg_avt_134: 0.
@@ -146,7 +146,7 @@ cfg_avt_143: 0.
 cfg_avt_144: 0.
 cfg_avt_145: 0.
 cfg_avt_146: 0.
-cfg_avt_147: 0.
+cfg_avt_147: ""
 cfg_avt_148: 0.
 cfg_avt_149: 0.
 cfg_avt_150: 0.
@@ -162,7 +162,7 @@ cfg_avt_159: 0.
 cfg_avt_160: 0.
 cfg_avt_161: 0.
 cfg_avt_162: 0.
-cfg_avt_163: 0.
+cfg_avt_163: ""
 cfg_avt_164: 0.
 cfg_avt_165: 0.
 cfg_avt_166: 0.
@@ -178,7 +178,7 @@ cfg_avt_175: 0.
 cfg_avt_176: 0.
 cfg_avt_177: 0.
 cfg_avt_178: 0.
-cfg_avt_179: 0.
+cfg_avt_179: ""
 cfg_avt_180: 0.
 cfg_avt_181: 0.
 cfg_avt_182: 0.
@@ -192,12 +192,12 @@ cfg_avt_189: 0.
 cfg_avt_190: 0.
 cfg_avt_191: 0.
 cfg_avt_192: 0.
-cfg_avt_193: 0.
-cfg_avt_194: 0.
-cfg_avt_195: 0.
+cfg_avt_193: 10.
+cfg_avt_194: 10.
+cfg_avt_195: ""
 cfg_avt_196: 0.
-cfg_avt_197: 0.
-cfg_avt_198: 0.
+cfg_avt_197: 2.
+cfg_avt_198: 10.
 cfg_avt_199: 0.
 cfg_avt_200: 0.
 cfg_avt_201: 0.
@@ -210,7 +210,7 @@ cfg_avt_207: 0.
 cfg_avt_208: 0.
 cfg_avt_209: 0.
 cfg_avt_210: 0.
-cfg_avt_211: 0.
+cfg_avt_211: ""
 cfg_avt_212: 0.
 cfg_avt_213: 0.
 cfg_avt_214: 0.
@@ -226,7 +226,7 @@ cfg_avt_223: 0.
 cfg_avt_224: 0.
 cfg_avt_225: 0.
 cfg_avt_226: 0.
-cfg_avt_227: 0.
+cfg_avt_227: ""
 cfg_avt_228: 0.
 cfg_avt_229: 0.
 cfg_avt_230: 0.
@@ -242,7 +242,7 @@ cfg_avt_239: 0.
 cfg_avt_240: 0.
 cfg_avt_241: 0.
 cfg_avt_242: 0.
-cfg_avt_243: 0.
+cfg_avt_243: ""
 cfg_avt_244: 0.
 cfg_avt_245: 0.
 cfg_avt_246: 0.
@@ -258,7 +258,7 @@ cfg_avt_255: 0.
 cfg_avt_256: 0.
 cfg_avt_257: 0.
 cfg_avt_258: 0.
-cfg_avt_259: 0.
+cfg_avt_259: ""
 cfg_avt_260: 0.
 cfg_avt_261: 0.
 cfg_avt_262: 0.
@@ -274,7 +274,7 @@ cfg_avt_271: 0.
 cfg_avt_272: 0.
 cfg_avt_273: 0.
 cfg_avt_274: 0.
-cfg_avt_275: 0.
+cfg_avt_275: ""
 cfg_avt_276: 0.
 cfg_avt_277: 0.
 cfg_avt_278: 0.
@@ -290,7 +290,7 @@ cfg_avt_287: 0.
 cfg_avt_288: 0.
 cfg_avt_289: 0.
 cfg_avt_290: 0.
-cfg_avt_291: 0.
+cfg_avt_291: ""
 cfg_avt_292: 0.
 cfg_avt_293: 0.
 cfg_avt_294: 0.
@@ -306,7 +306,7 @@ cfg_avt_303: 0.
 cfg_avt_304: 0.
 cfg_avt_305: 0.
 cfg_avt_306: 0.
-cfg_avt_307: 0.
+cfg_avt_307: ""
 cfg_avt_308: 0.
 cfg_avt_309: 0.
 cfg_avt_310: 0.
@@ -322,7 +322,7 @@ cfg_avt_319: 0.
 cfg_avt_320: 0.
 cfg_avt_321: 0.
 cfg_avt_322: 0.
-cfg_avt_323: 0.
+cfg_avt_323: ""
 cfg_avt_324: 0.
 cfg_avt_325: 0.
 cfg_avt_326: 0.
@@ -338,7 +338,7 @@ cfg_avt_335: 0.
 cfg_avt_336: 0.
 cfg_avt_337: 0.
 cfg_avt_338: 0.
-cfg_avt_339: 0.
+cfg_avt_339: ""
 cfg_avt_340: 0.
 cfg_avt_341: 0.
 cfg_avt_342: 0.
@@ -450,7 +450,7 @@ cfg_avt_447: 0.
 cfg_avt_448: 0.
 cfg_avt_449: 0.
 cfg_avt_450: 0.
-cfg_avt_451: 0.
+cfg_avt_451: ""
 cfg_avt_452: 0.
 cfg_avt_453: 0.
 cfg_avt_454: 0.
@@ -466,7 +466,7 @@ cfg_avt_463: 0.
 cfg_avt_464: 0.
 cfg_avt_465: 0.
 cfg_avt_466: 0.
-cfg_avt_467: 0.
+cfg_avt_467: ""
 cfg_avt_468: 0.
 cfg_avt_469: 0.
 cfg_avt_470: 0.
@@ -482,7 +482,7 @@ cfg_avt_479: 0.
 cfg_avt_480: 0.
 cfg_avt_481: 0.
 cfg_avt_482: 0.
-cfg_avt_483: 0.
+cfg_avt_483: ""
 cfg_avt_484: 0.
 cfg_avt_485: 0.
 cfg_avt_486: 0.
@@ -498,7 +498,7 @@ cfg_avt_495: 0.
 cfg_avt_496: 0.
 cfg_avt_497: 0.
 cfg_avt_498: 0.
-cfg_avt_499: 0.
+cfg_avt_499: ""
 cfg_avt_500: 0.
 cfg_avt_501: 0.
 cfg_avt_502: 0.
@@ -514,7 +514,7 @@ cfg_avt_511: 0.
 cfg_avt_512: 0.
 cfg_avt_513: 0.
 cfg_avt_514: 0.
-cfg_avt_515: 0.
+cfg_avt_515: ""
 cfg_avt_516: 0.
 cfg_avt_517: 0.
 cfg_avt_518: 0.
@@ -530,7 +530,7 @@ cfg_avt_527: 0.
 cfg_avt_528: 0.
 cfg_avt_529: 0.
 cfg_avt_530: 0.
-cfg_avt_531: 0.
+cfg_avt_531: ""
 cfg_avt_532: 0.
 cfg_avt_533: 0.
 cfg_avt_534: 0.
@@ -546,7 +546,7 @@ cfg_avt_543: 0.
 cfg_avt_544: 0.
 cfg_avt_545: 0.
 cfg_avt_546: 0.
-cfg_avt_547: 0.
+cfg_avt_547: ""
 cfg_avt_548: 0.
 cfg_avt_549: 0.
 cfg_avt_550: 0.
@@ -562,7 +562,7 @@ cfg_avt_559: 0.
 cfg_avt_560: 0.
 cfg_avt_561: 0.
 cfg_avt_562: 0.
-cfg_avt_563: 0.
+cfg_avt_563: ""
 cfg_avt_564: 0.
 cfg_avt_565: 0.
 cfg_avt_566: 0.
@@ -578,7 +578,7 @@ cfg_avt_575: 0.
 cfg_avt_576: 0.
 cfg_avt_577: 0.
 cfg_avt_578: 0.
-cfg_avt_579: 0.
+cfg_avt_579: ""
 cfg_avt_580: 0.
 cfg_avt_581: 0.
 cfg_avt_582: 0.
@@ -594,7 +594,7 @@ cfg_avt_591: 0.
 cfg_avt_592: 0.
 cfg_avt_593: 0.
 cfg_avt_594: 0.
-cfg_avt_595: 0.
+cfg_avt_595: ""
 cfg_avt_596: 0.
 cfg_avt_597: 0.
 cfg_avt_598: 0.
@@ -610,7 +610,7 @@ cfg_avt_607: 0.
 cfg_avt_608: 0.
 cfg_avt_609: 0.
 cfg_avt_610: 0.
-cfg_avt_611: 0.
+cfg_avt_611: ""
 cfg_avt_612: 0.
 cfg_avt_613: 0.
 cfg_avt_614: 0.
@@ -626,7 +626,7 @@ cfg_avt_623: 0.
 cfg_avt_624: 0.
 cfg_avt_625: 0.
 cfg_avt_626: 0.
-cfg_avt_627: 0.
+cfg_avt_627: ""
 cfg_avt_628: 0.
 cfg_avt_629: 0.
 cfg_avt_630: 0.
@@ -642,7 +642,7 @@ cfg_avt_639: 0.
 cfg_avt_640: 0.
 cfg_avt_641: 0.
 cfg_avt_642: 0.
-cfg_avt_643: 0.
+cfg_avt_643: ""
 cfg_avt_644: 0.
 cfg_avt_645: 0.
 cfg_avt_646: 0.
@@ -658,7 +658,7 @@ cfg_avt_655: 0.
 cfg_avt_656: 0.
 cfg_avt_657: 0.
 cfg_avt_658: 0.
-cfg_avt_659: 0.
+cfg_avt_659: ""
 cfg_avt_660: 0.
 cfg_avt_661: 0.
 cfg_avt_662: 0.
@@ -671,12 +671,12 @@ cfg_avt_668: 0.
 cfg_avt_669: 0.
 cfg_avt_670: 0.
 cfg_avt_671: 0.
-cfg_avt_672: 0.
-cfg_avt_673: 0.
-cfg_avt_674: 0.
-cfg_avt_675: 0.
+cfg_avt_672: 1.
+cfg_avt_673: 1550.
+cfg_avt_674: 100.
+cfg_avt_675: ""
 cfg_avt_676: 0.
-cfg_avt_677: 0.
+cfg_avt_677: 2.
 cfg_avt_678: 0.
 cfg_avt_679: 0.
 cfg_avt_680: 0.
@@ -688,11 +688,11 @@ cfg_avt_685: 0.
 cfg_avt_686: 0.
 cfg_avt_687: 0.
 cfg_avt_688: 0.
-cfg_avt_689: 0.
-cfg_avt_690: 0.
-cfg_avt_691: 0.
+cfg_avt_689: 1550.
+cfg_avt_690: 130.
+cfg_avt_691: Tracker ShangHai
 cfg_avt_692: 0.
-cfg_avt_693: 0.
+cfg_avt_693: 2.
 cfg_avt_694: 0.
 cfg_avt_695: 0.
 cfg_avt_696: 0.
@@ -832,7 +832,7 @@ cfg_avt_829: 0.
 cfg_avt_830: 0.
 cfg_avt_831: 0.
 cfg_avt_832: 1.
-cfg_avt_833: 1.
+cfg_avt_833: 3.
 cfg_avt_834: 0.
 cfg_avt_835: 0.
 cfg_avt_836: 0.
