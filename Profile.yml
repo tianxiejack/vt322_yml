@@ -848,12 +848,12 @@ cfg_avt_845: 0.
 cfg_avt_846: 0.
 cfg_avt_847: 0.
 cfg_avt_848: 0.
-cfg_avt_849: 0.
+cfg_avt_849: 10.
 cfg_avt_850: 0.
-cfg_avt_851: 0.
-cfg_avt_852: 0.
-cfg_avt_853: 0.
-cfg_avt_854: 0.
+cfg_avt_851: 50000.
+cfg_avt_852: 1000.
+cfg_avt_853: 16.
+cfg_avt_854: 2.
 cfg_avt_855: 0.
 cfg_avt_856: 0.
 cfg_avt_857: 0.
@@ -862,7 +862,7 @@ cfg_avt_859: 0.
 cfg_avt_860: 0.
 cfg_avt_861: 0.
 cfg_avt_862: 0.
-cfg_avt_863: 0.
+cfg_avt_863: 1.
 cfg_avt_864: 0.
 cfg_avt_865: 0.
 cfg_avt_866: 0.
